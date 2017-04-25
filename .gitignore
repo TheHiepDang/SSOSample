@@ -1,0 +1,14 @@
+target/
+.idea
+*.iml
+*.log
+.classpath
+.project
+.settings
+.tmp
+.DS_Store
+node_modules
+bower_components
+src/main/webapp
+src/test/webappSrc/results
+src/test/webappSrc/results/unit-test-results.xml
